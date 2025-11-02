@@ -6,9 +6,9 @@ campaignTrail_temp.election_json = [
             "year": 2012,
             "summary": `Barack Hussein Obama. The first Black president. <b>The Antichrist.</b> The demagogic liar has succeeded in advancing himself to the highest office in the land on the premise he'd fulfill the hopes and channel the grievances of all the extremists and victims who've placed him there. Under the ever-present eyes of his teachers, the time has come to take his place as the fourth horseman of the apocalypse that will ring in a new America.<br><br>Tasked with truly defining himself and exposing his innermost ambitions, he must act upon events most extraordinary, all conveniently placed before him as if by the cruel hand of fate itself. Will he maintain the radical tutelage instilled in him from his swinging Chicago days, or betray them all at the risk of a tarnished legacy? Whatever he decides to do, it'll take all his wits, snake oil charm, and manipulative cunning to not go down with the ship he's sinking.`,
             "site_description": `<p>Barack Hussein Obama. The first Black president. <b>The Antichrist.</b> The demagogic liar has succeeded in advancing himself to the highest office in the land on the premise he'd fulfill the hopes and channel the grievances of all the extremists and victims who've placed him there. Under the ever-present eyes of his teachers, the time has come to take his place as the fourth horseman of the apocalypse that will ring in a new America.</p><p>Tasked with truly defining himself and exposing his innermost ambitions, he must act upon events most extraordinary, all conveniently placed before him as if by the cruel hand of fate itself. Will he maintain the radical tutelage instilled in him from his swinging Chicago days, or betray them all at the risk of a tarnished legacy? Whatever he decides to do, it'll take all his wits, snake oil charm, and manipulative cunning to not go down with the ship he's sinking.</p>`,
-            "image_url": "https://i.imgur.com/AZJd8oG.gif",
+            "image_url": "https://file.garden/aNtAfG887DiA_7lO/Obamanation/Code1/AZJd8oG.gif",
             "winning_electoral_vote_number": 270,
-            "advisor_url": "https://i.imgur.com/zXSQiZr.png",
+            "advisor_url": "https://file.garden/aNtAfG887DiA_7lO/Obamanation/Code1/zXSQiZr.png",
             "recommended_reading": `<a href="https://quranonline.net/" target="_blank">The Holy Quran</a>`,
             "has_visits": 1,
             "no_electoral_majority_image": "/static/images/2012-no-majority.jpg",
@@ -30,7 +30,7 @@ campaignTrail_temp.candidate_json = [
             "color_hex": '#184794',
             "secondary_color_hex": '#9c5151',
             "is_active": 1,
-            "image_url": "https://i.imgur.com/hPU7oJl.png",
+            "image_url": "https://file.garden/aNtAfG887DiA_7lO/Obamanation/Code1/hPU7oJl.png",
             "electoral_victory_message": "'",
             "electoral_loss_message": "'",
             "no_electoral_majority_message": "'",
@@ -53,7 +53,7 @@ campaignTrail_temp.candidate_json = [
             "color_hex": '#FF0000',
             "secondary_color_hex": '#FFA0A0',
             "is_active": 0,
-            "image_url": "https://i.imgur.com/RSeSB97.png",
+            "image_url": "https://file.garden/aNtAfG887DiA_7lO/Obamanation/Code1/RSeSB97.png",
             "electoral_victory_message": "'",
             "electoral_loss_message": "'",
             "no_electoral_majority_message": "'",
@@ -76,7 +76,7 @@ campaignTrail_temp.candidate_json = [
             "color_hex": '#910c0c',// "#0000",
             "secondary_color_hex": '#9badc4',// "#90C0",
             "is_active": 0,
-            "image_url": "https://i.imgur.com/a4od9z3.jpeg",
+            "image_url": "https://file.garden/aNtAfG887DiA_7lO/Obamanation/Code1/a4od9z3.jpeg",
             "electoral_victory_message": "n/a",
             "electoral_loss_message": "n/a",
             "no_electoral_majority_message": "n/a",
@@ -296,17 +296,17 @@ campaignTrail_temp.credits = `
     <button onclick='credits()'>Cannonbollocks & ᴛʜᴇ ᴏʙᴀᴍᴀɴᴀᴛɪᴏɴ ꜰᴀɴ ᴄʟᴜʙ</button>
     `;
 
-$("#dynamic-favicon").attr("href", "https://i.imgur.com/MCA5gSZ.png");
+$("#dynamic-favicon").attr("href", "https://file.garden/aNtAfG887DiA_7lO/Obamanation/Code1/MCA5gSZ.png");
 
 const creditsItemsA = [
-    { photo: 'https://i.imgur.com/MFevdkW.png', name: 'Cannonbollocks (Accurate_Feature9970)', text: 'Lead/Coding/Co-Writer' },
-    { photo: 'https://i.imgur.com/MJL3qtR.png', name: 'Murraythedog', text: 'Co-Writer' },
-    { photo: 'https://i.imgur.com/39tZy0x.png', name: 'StrawberryMaster', text: 'UI Help/Without their extraordinary help, this Definitive Edition wouldn\'t exist.' },
-    { photo: 'https://i.imgur.com/beuz34a.png', name: 'imfakeithink', text: 'Ending Help/Other Help/President of ᴛʜᴇ ᴏʙᴀᴍᴀɴᴀᴛɪᴏɴ ꜰᴀɴ ᴄʟᴜʙ' },
-    { photo: 'https://i.imgur.com/EAbZNjN.png', name: 'DysonEngineer', text: 'Ending Help/Other Help' },
-    { photo: 'https://i.imgur.com/HFNOmgt.png', name: 'Girlie', text: 'Other Help' },
-    { photo: 'https://i.imgur.com/CUhRYCg.png', name: 'Shockonomics', text: 'Ending Help' },
-    { photo: 'https://i.imgur.com/2e7fMuY.png', name: 'ThatQuayleSimp (Evening_Wave_4174)', text: 'Other Help' }
+    { photo: 'https://file.garden/aNtAfG887DiA_7lO/Obamanation/Code1/MFevdkW.png', name: 'Cannonbollocks (Accurate_Feature9970)', text: 'Lead/Coding/Co-Writer' },
+    { photo: 'https://file.garden/aNtAfG887DiA_7lO/Obamanation/Code1/MJL3qtR.png', name: 'Murraythedog', text: 'Co-Writer' },
+    { photo: 'https://file.garden/aNtAfG887DiA_7lO/Obamanation/Code1/39tZy0x.png', name: 'StrawberryMaster', text: 'UI Help/Without their extraordinary help, this Definitive Edition wouldn\'t exist.' },
+    { photo: 'https://file.garden/aNtAfG887DiA_7lO/Obamanation/Code1/beuz34a.png', name: 'imfakeithink', text: 'Ending Help/Other Help/President of ᴛʜᴇ ᴏʙᴀᴍᴀɴᴀᴛɪᴏɴ ꜰᴀɴ ᴄʟᴜʙ' },
+    { photo: 'https://file.garden/aNtAfG887DiA_7lO/Obamanation/Code1/EAbZNjN.png', name: 'DysonEngineer', text: 'Ending Help/Other Help' },
+    { photo: 'https://file.garden/aNtAfG887DiA_7lO/Obamanation/Code1/HFNOmgt.png', name: 'Girlie', text: 'Other Help' },
+    { photo: 'https://file.garden/aNtAfG887DiA_7lO/Obamanation/Code1/CUhRYCg.png', name: 'Shockonomics', text: 'Ending Help' },
+    { photo: 'https://file.garden/aNtAfG887DiA_7lO/Obamanation/Code1/2e7fMuY.png', name: 'ThatQuayleSimp (Evening_Wave_4174)', text: 'Other Help' }
 ];
 
 const specialThanks = [
@@ -320,7 +320,7 @@ let savedY = null;
 campaignTrail_temp.credits = `
 	  <button onclick='openCredits(event)'>Cannonbollocks & ᴛʜᴇ ᴏʙᴀᴍᴀɴᴀᴛɪᴏɴ ꜰᴀɴ ᴄʟᴜʙ</button>
 	`;
-$("#dynamic-favicon").attr("href", "https://i.imgur.com/MCA5gSZ.png");
+$("#dynamic-favicon").attr("href", "https://file.garden/aNtAfG887DiA_7lO/Obamanation/Code1/MCA5gSZ.png");
 
 function makeGroupBox(title) {
     const fs = document.createElement('fieldset');
@@ -464,7 +464,7 @@ window.openCredits = function (ev) {
 
     const newsGroup = makeGroupBox('Latest News');
     const qpic = document.createElement('img');
-    qpic.src = "https://i.imgur.com/FChrhqE.png";
+    qpic.src = "https://file.garden/aNtAfG887DiA_7lO/Obamanation/Code1/FChrhqE.png";
     qpic.style.cssText = 'width: 150px; height: auto; display: block; margin: 0 auto;';
     newsGroup.appendChild(qpic);
 
@@ -561,19 +561,37 @@ function ensureStylesheet(url, id) {
 
 ensureStylesheet('https://unpkg.com/7.css', 'unpkg-7css');
 
-function appendStyle() {
+function ensureMetaViewport() {
     if (!document.querySelector('meta[name="viewport"]')) {
-        const metaTag = document.createElement('meta');
-        metaTag.name = "viewport";
-        metaTag.content = "width=device-width, initial-scale=1";
-        document.head.appendChild(metaTag);
+        const m = document.createElement('meta');
+        m.name = 'viewport';
+        m.content = 'width=device-width, initial-scale=1';
+        document.head.appendChild(m);
+    }
+}
+
+applyGlobalStyles.sheets = {};
+
+function applyGlobalStyles(css, id = 'app-theme') {
+    if ('adoptedStyleSheets' in document && 'replaceSync' in CSSStyleSheet.prototype) {
+        if (!applyGlobalStyles.sheets[id]) {
+            applyGlobalStyles.sheets[id] = new CSSStyleSheet();
+            document.adoptedStyleSheets = [...document.adoptedStyleSheets, applyGlobalStyles.sheets[id]];
+        }
+        applyGlobalStyles.sheets[id].replaceSync(css);
+        return;
     }
 
-    // Custom styles here
-    if (!document.querySelector('#radio-option-style')) {
-        const style = document.createElement('style');
-        style.id = 'radio-option-style';
-        style.textContent = `		
+    let el = document.getElementById(id);
+    if (!el) {
+        el = document.createElement('style');
+        el.id = id;
+        document.head.appendChild(el);
+    }
+    el.textContent = css;
+}
+
+const css = `		
 					#closeButton {
 						background: none;
 						border: none;
@@ -581,27 +599,13 @@ function appendStyle() {
 						padding: 0;
 						cursor: pointer;
 					}
-
-                    button, span, input, select {
-                        font-family: Segoe UI, "Helvetica Neue", Helvetica, sans-serif!important;
-                        color:rgb(0, 0, 0);
-                        text-shadow: 0 1px 2px rgba(0, 0, 0, 0.5);
-                    }
-
-                    p, div, label {
-                        font-family: Segoe UI, "Helvetica Neue", Helvetica, sans-serif!important;
-                        font-weight: normal;
-                    }
-
-                    td, td span, th, li span {
-                        font-family: Segoe UI, "Helvetica Neue", Helvetica, sans-serif!important;
-                        text-shadow: none !important;
-                    }
-
 					.inner_inner_window h3 {
 						background-color: #E8EFFF;
-						background: linear-gradient(to bottom, #637c94, #768fa6, #8fa7bd);
+						background: linear-gradient(to bottom, #768fa6, #8fa7bd);
 					}
+					#opponent_selection_id_button_p {
+						color: #fff;
+					}						
 
 					/* Override xp.css focus and hover styles */
 					#closeButton:focus,
@@ -621,326 +625,363 @@ function appendStyle() {
 						font-size:0.92em!important;
 						font-family: Segoe UI, "Helvetica Neue", Helvetica, sans-serif!important;
 					}
-
 				body {
-                    background-image: url(https://i.imgur.com/zUFIWre.jpeg);
+                    background-image: url(https://file.garden/aNtAfG887DiA_7lO/Obamanation/Code1/zUFIWre.jpeg);
                     background-position: center;
                     background-size: cover;
                     display: flex !important;
                 }
 
                 .container {
-                    background: #01446A;
-                    background: linear-gradient(180deg, #01446A 0%, #01446A 15%, #002036 100%);
-                    border: 1px solid rgba(255, 255, 255, 0.35);
-                    box-shadow: 0 10px 25px rgba(0,0,0,0.6);
-                    padding: 0.0em;
-                    width: 100em !important;
+                    background-color: #1d2754 !important;;
+                    border: .2em double #cccccc;
                 }
 				
-				/* Vista Aero-style glass effect */
 				#game_window {
-                    background: rgba(40, 60, 120, 0.45) url(https://i.imgur.com/ENrcfdQ.png) center/cover no-repeat !important;
-                    border: 1px solid rgba(255, 255, 255, 0.35);
-                    box-shadow: 0 8px 30px rgba(0,0,0,0.5), inset 0 1px 0 rgba(255,255,255,0.4);
-                    border-radius: 2px;
+                    background-color: #1d2754 !important;;
+                    background-image: url(https://file.garden/aNtAfG887DiA_7lO/Obamanation/Code1/ENrcfdQ.png);
+                    border: .2em double #ffffff;
                     max-width: 1000px;
                 }
 
                 #results_container {
-                    color: #ffffff;
-                    text-shadow: 0 1px 2px rgba(0,0,0,0.8);
+                    color: #fff;
                 }
-
-                .inner_window_w_desc::before {
-                    content: "";
-                    position: absolute;
-                    inset: 0;
-                    background: linear-gradient(
-                        90deg,
-                        rgba(255, 255, 255, 0.25) 0%,
-                        rgba(255, 255, 255, 0.0) 45%,
-                        rgba(255, 255, 255, 0.0) 55%,
-                        rgba(255, 255, 255, 0.25) 100%
-                    );
-                    mix-blend-mode: screen;
-                    pointer-events: none;
-                    opacity: 1;
-                    z-index: -100;
-                }
-
                 .inner_window_w_desc {
-                    position: absolute;
-                    top: 72px; 
-                    left: 0;
-                    width: 100%;
-                    height: calc(100% - 72px);
-                    background: rgba(10, 20, 60, 0.6) !important;
-                    z-index: 2;
-                    backdrop-filter: blur(2px) saturate(180%) contrast(110%);
-                    border-style: none; !important
-                    box-shadow: 
-                        0 8px 32px rgba(0, 0, 0, 0.1),
-                        inset 0 1px 0 rgba(255, 255, 255, 0.5),
-                        inset 0 -1px 0 rgba(255, 255, 255, 0.1),
-                    overflow: hidden;
+                    background-color: #040c42 !important;
                 }
 
                 .campaign_trail_start_emphasis {
-                    background: linear-gradient(to bottom, rgba(255,255,255,0.85), rgba(230,230,230,0.6));
-                    border: 1px solid rgba(255,255,255,0.4);
-                    border-radius: 6px;
+                    background-color: #F8F8F8;
                 }
 
-			    .overlay_window {
-				    height: auto;
-                    padding-bottom: 10px;
-                    background: #ffffff;
-                    background: linear-gradient(180deg, rgba(255, 255, 255, 1) 0%, rgba(240, 240, 240, 1) 50%, rgba(255, 255, 255, 1) 100%);
-                    border-style: none;
-                    border-bottom-left-radius: 6px;
-                    border-bottom-right-radius: 6px;
-                    opacity: none;
-			    }
+			  .overlay_window {
+				  height: auto;
+			  }
 
-                #visit_window {
-                    height: auto;
-                    background: #ffffff;
-                    background: linear-gradient(180deg, rgba(255, 255, 255, 1) 0%, rgba(240, 240, 240, 1) 50%, rgba(255, 255, 255, 1) 100%);
-                    border-style: none;
-                    border-bottom-left-radius: 6px;
-                    border-bottom-right-radius: 6px;
-                    opacity: none;
-                }
+			  #closeButton:hover {
+				  outline: none;
+				  border: none;
+			  }
 
-                #visit_window p {
-                    height: auto;
-                    font-weight: normal !important;
-                    text-shadow: 0 1px 2px rgba(0, 0, 0, 0.5);
-                }
+			  /* Image positioned in the bottom-right */
+			  #closeIcon {
+				  position: absolute;
+				  bottom: 0;
+				  left: 0;
+				  width: 52px;  /* Adjust as needed */
+				  height: 20px; /* Adjust as needed */
+			  }
 
-			    .overlay_window p {
-				    height: auto;
-                    font-weight: normal !important;
-                    text-shadow: 0 1px 2px rgba(0, 0, 0, 0.5);
-			    }
-
-                .overlay_window h3 {
-                    position: relative;
-                    top: -25px;
-                    left: -1px;
-                    padding: 1px;
-                    font-weight: normal !important;
-                    font-family: Segoe UI, "Helvetica Neue", Helvetica, sans-serif!important !important;
-                    text-align: left;
-                    background: rgba(10, 20, 60, 0.0) !important;
-                    padding-left: 1em !important;
-                    padding-bottom: 0.25em !important;
-                    padding-top: 0.15em !important;
-                    text-shadow: 0 0 10px #ffffff, 0 0 10px #ffffff, 0 0 10px #ffffff, 0 0 10px #ffffff, 0 0 10px #ffffff, 0 0 10px #ffffff, 0 0 10px #ffffff, 0 0 10px #ffffff;
-                    border-top-left-radius: 6px !important;
-                    border-top-right-radius: 6px !important;
-                    backdrop-filter: blur(2px) saturate(180%) contrast(110%);
-                    border-radius: 2px;
-                    border-style: solid;
-                    border-color:rgb(114, 166, 185);
-				    border: 1px solid rgba(0,0,0,0.4);
-                    border-bottom: 0.1em double #C9C9C9;
-                    width: 465.391px;
-                    box-shadow:
-                        inset 0 1px 0 rgba(255, 255, 255, 0.5),
-                        inset 0 -1px 0 rgba(255, 255, 255, 0.1);
-                    border-spacing: 0;
-                    overflow: hidden;
-                }
-
-                .overlay_window h3::before {
-                    content: "";
-                    position: absolute;
-                    inset: 0;
-                    background: linear-gradient(
-                        90deg,
-                        rgba(204, 226, 255, 0.5) 0%,
-                        rgba(187, 224, 255, 0.25) 45%,
-                        rgba(187, 224, 255, 0.25) 55%,
-                        rgba(204, 226, 255, 0.5) 100%
-                    );
-                    mix-blend-mode: screen;
-                    pointer-events: none;
-                    opacity: 1;
-                    border-top-left-radius: 6px;
-                    border-top-right-radius: 6px;
-                    z-index: -100;
-                    overflow: hidden;
-                }
-
-			    #closeButton:hover {
-				    outline: none;
-				    border: none;
-				    filter: brightness(1.2);
-			    }
-
-			    /* Vista-style close icon */
-			    #closeIcon {
-				    position: absolute;
-				    bottom: 0;
-				    left: 0;
-				    width: 52px;
-				    height: 20px;
-				    opacity: 0.8;
-				    transition: opacity 0.2s ease-in-out;
-			    }
-
-			    #closeIcon:hover {
-				    opacity: 1;
-			    }
-
-			    label {
-			      display:inline-block;
-			    }
-  
-                .content_single {
-                    border-style: none !important;
-                    padding-top: 2px;
-                }
-                
-			    .content_single li {
-			      line-height: 1.39em;
-			    }
-  
-			    input[type=radio]+label {
-			      display: inline;
-			    }
 	
-			    .mytooltip {
-				    position: relative;
-				    display: inline-block;
-				    cursor: pointer;
-				    color: #00e;
-				    text-decoration: underline #84c8db;
-				    text-underline-offset: 2px;
-                    text-shadow: none !important;
-                    text-shadow: 0 1px 2px rgba(0, 0, 0, 0.5) !important;
-			    }
+			label {
+			  display:inline-block;
+			}
+  
+			.content_single li {
+			  line-height: 1.39em;
+			}
+  
+			input[type=radio]+label {
+			  display: inline;
+			}
 	
-			    .mytooltip .mytooltiptext {
-                    position: absolute;
-				    width: 240px;
-				    background: rgba(10, 20, 60, 0.6) !important;
-				    color: white;
-				    text-align: center;
-				    border-radius: 2px;
-                    border-style: solid;
-                    border-color:rgb(114, 166, 185);
-				    padding: 10px;
-				    position: absolute;
-				    z-index: 99;
-				    bottom: 20%;
-				    left: 20%;
-				    margin-left: -90px;
-				    opacity: 0;
-				    transition: opacity 0.3s;
-				    border: 1px solid rgba(0,0,0,0.4);
-                    box-shadow: 
-                        0 8px 32px rgba(0, 0, 0, 0.1),
-                        inset 0 1px 0 rgba(255, 255, 255, 0.5),
-                        inset 0 -1px 0 rgba(255, 255, 255, 0.1);
-                    backdrop-filter: blur(2px) saturate(180%) contrast(110%);
-				    pointer-events: none;
-				    font-size: 13px !important;
-				    line-height: 1.5em !important;
-				    font-weight: normal !important;
-				    font-style: normal !important;
-                    z-index: 100;
-			    }
+			.mytooltip {
+				position: relative;
+				display: inline-block;
+				cursor: pointer;
+				color: #00e;
+				text-decoration: underline #84c8db;
+				text-underline-offset: 2px;
+			}
+	
+			.mytooltip .mytooltiptext {
+				width: 240px;
+				background-color: #00a2ed;
+				color: black;
+				text-align: center;
+				border-radius: 6px;
+				padding: 10px;
+				position: absolute;
+				z-index: 99;
+				bottom: 20%;
+				left: 20%;
+				margin-left: -90px;
+				opacity: 0;
+				transition: opacity 0.3s;
+				border: 1px solid black;
+				pointer-events: none;
+				font-size: 13px !important;
+				line-height: 1.5em !important;
+				font-weight: normal !important;
+				font-style: normal !important;
+			}
+	
+			.mytooltip .mytooltiptext img {
+				max-width: 240px;
+				height: auto;
+			}
 
-                .mytooltip .mytooltiptext::before {
-                    content: "";
-                    position: absolute;
-                    inset: 0;
-                    background: linear-gradient(
-                        90deg,
-                        rgba(255, 255, 255, 0.25) 0%,
-                        rgba(255, 255, 255, 0.0) 45%,
-                        rgba(255, 255, 255, 0.0) 55%,
-                        rgba(255, 255, 255, 0.25) 100%
-                    );
-                    mix-blend-mode: screen;
-                    pointer-events: none;
-                    opacity: 1;
-                    z-index: -100;
-			    }
 	
-			    .mytooltip .mytooltiptext img {
-				    max-width: 240px;
-				    height: auto;
-                    border-style: none !important;
-			    }
-	
-			    .mytooltip:hover .mytooltiptext {
-				    opacity: 1;
-				    transition-delay: 0.5s;
-			    }
-  
-			    #final_results_description p {
-			      color: white;
-			      font-family: Segoe UI;
-			    }
-  
-			    #overall_details_container h3,
-			    #overall_election_details h4,
-			    #main_content_area_reading p,
-			    #main_content_area_reading h3.results_tab_header,
-			    .inner_window_w_desc h3,
-			    #credits {
-			      color: white;
-			      text-shadow: 0 1px 2px rgba(0,0,0,0.8);
-			    }
+			.mytooltip:hover .mytooltiptext {
+				opacity: 1;
+				transition-delay: 0.5s;
+			}			
 			
-			    #hidden_checkbox {
-			      opacity: 1;
-			      appearance: auto;
-			    }
-				`;
-        document.head.appendChild(style);
-    }
-}
+			/* this is specifically for tooltips inside the advisor feedback module */
+			#visit_window .mytooltiptext {
+			  padding: .1em 1.2em .75em .75em;
+			}
+  
+			#final_results_description p {
+			  color: white;
+			  font-family: Segoe UI;
+			}
+  
+			#overall_details_container h3,
+			#overall_election_details h4,
+			#main_content_area_reading p,
+			#main_content_area_reading h3.results_tab_header,
+			.inner_window_w_desc h3,
+			#credits {
+			  color: white;
+			}
+			
+			#hidden_checkbox {
+			  opacity: 1;
+			  appearance: auto;
+			}
+			
+			/* 7.css overrides */
+			#bottomBar::before, #bottomBar::after {
+				content: none;
+			}
+			
+			/* Other accessibility fixes */
+			#state_info {
+				height: auto;
+			}
+			#recommended_reading_box {
+			  padding: .5em;
+			}
+			#overall_result h3 {
+			  padding: .2em 0;
+			}
+			#election_id, #candidate_id, #running_mate_id, #game_type_id, #difficulty_level_id,
+			#sort_tab, #state_tab {
+			  color: #000;
+			}
+			#menu_container, #overall_result_container, #state_result_container {
+			  background: transparent !important;
+			}
+			#visit_buttons, #election_night_buttons, #winner_buttons {
+				margin-bottom: 1em;
+			}
+			.overlay_window h3 {
+				background: linear-gradient(to left, #d9f0ff, #abcde3, #ccebff);
+			}
+			#state_result_data_summary table td:first-child span,
+			#overall_details_container table td:first-child span,
+			.final_results_table td:first-child span {
+				border: 1px solid rgba(0, 0, 0, 0.2);
+				display: inline-flex;
+				height: 1em;
+				margin-right: .25em;
+				text-indent: -9999px;
+				vertical-align: text-bottom;
+				width: 1em;
+			}
 
+            @media only screen and (max-width: 768px) {
+                /* baseline */
+                #player {
+                    margin: clamp(10dvh, calc(35vh + 3rem), 77dvh) auto auto;
+                }
 
-appendStyle();
+                /* when #game_window contains the question */
+                #game_window:has(.inner_window_question) + #player {
+                    margin: clamp(65dvh, calc(60vh + 8rem), 80dvh) auto auto;
+                }
+            }
+			
+			/* Vista-like styling by weedsoldier */
+			:root {
+				--glass-bg: rgba(10, 20, 60, 0.6);
+				--glass-border: 1px solid rgba(0, 0, 0, 0.4);
+				--glass-shadow: 0 8px 32px rgba(0, 0, 0, 0.1),
+								inset 0 1px 0 rgba(255, 255, 255, 0.5),
+								inset 0 -1px 0 rgba(255, 255, 255, 0.1);
+				--glass-backdrop: blur(2px) saturate(180%) contrast(110%);
+				--glass-radius: 6px;
+				--text-shadow-subtle: 0 1px 2px rgba(0, 0, 0, 0.5);
+				--text-shadow-strong: 0 1px 2px rgba(0, 0, 0, 0.8);
+				--sheen-gradient: linear-gradient(90deg,
+					rgba(255, 255, 255, 0.25) 0%,
+					rgba(255, 255, 255, 0.0) 45%,
+					rgba(255, 255, 255, 0.0) 55%,
+					rgba(255, 255, 255, 0.25) 100%);
+			}
+
+			p, div, label, td, td span, th, li span {
+				font-family: Segoe UI, "Helvetica Neue", Helvetica, sans-serif;
+			}
+
+			.container {
+				background: linear-gradient(180deg, #01446A 0%, #01446A 15%, #002036 100%);
+				box-shadow: 0 0 20px rgba(0, 0, 0, 0.6);
+			}
+
+			#game_window {
+				background: rgba(40, 60, 120, 0.45) url(https://file.garden/aNtAfG887DiA_7lO/Obamanation/Code1/ENrcfdQ.png) center/cover no-repeat;
+				box-shadow: 0 5px 10px rgba(0, 0, 0, 0.5), inset 0 1px 0 rgba(255, 255, 255, 0.4);
+				border-radius: 2px;
+			}
+
+			#inner_window_2.inner_window_w_desc {
+				height: calc(100% - 74px);
+				background: var(--glass-bg);
+				backdrop-filter: var(--glass-backdrop);
+				border: none;
+				box-shadow: var(--glass-shadow);
+				overflow: hidden;
+			}
+
+			#inner_window_3.inner_window_w_desc, #inner_window_4.inner_window_w_desc {
+				height: calc(100% - 74px);
+				border: none;
+				overflow: hidden;
+			}
+
+			.inner_window_w_desc::before,
+			.overlay_window h3::before,
+			.mytooltip .mytooltiptext::before {
+				content: "";
+				position: absolute;
+				inset: 0;
+				background: var(--sheen-gradient);
+			}
+
+			.overlay_window h3::before {
+				background: linear-gradient(90deg,
+					rgba(204, 226, 255, 0.5) 0%,
+					rgba(187, 224, 255, 0.25) 45%,
+					rgba(187, 224, 255, 0.25) 55%,
+					rgba(204, 226, 255, 0.5) 100%);
+				border-radius: var(--glass-radius) var(--glass-radius) 0 0;
+			}
+
+			.overlay_window,
+			#visit_window {
+				padding-bottom: 10px;
+				background: linear-gradient(180deg, #fff 0%, #f0f0f0 50%, #fff 100%);
+				border: none;
+				border-radius: 0 0 var(--glass-radius) var(--glass-radius);
+			}
+
+			.overlay_window p,
+			#visit_window p {
+				font-weight: normal;
+				text-shadow: var(--text-shadow-subtle);
+			}
+
+			.overlay_window h3 {
+				position: relative;
+				top: -25px;
+				left: -1px;
+				padding: 0.15em 1em 0.25em;
+				font-weight: normal !important;
+				text-align: left;
+				background: transparent !important;
+				text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #fff;
+				border: var(--glass-border);
+				border-bottom: 0.1em double #C9C9C9;
+				width: 450.75px;
+				box-shadow: var(--glass-shadow);
+				backdrop-filter: var(--glass-backdrop);
+				border-radius: var(--glass-radius) var(--glass-radius) 0 0;
+				overflow: hidden;
+			}
+
+			.mytooltip .mytooltiptext {
+				background: var(--glass-bg) !important;
+				color: white !important;
+				border-radius: 2px !important;
+				border: var(--glass-border);
+				box-shadow: var(--glass-shadow);
+				backdrop-filter: var(--glass-backdrop);
+				z-index: 100;
+			}
+
+			.mytooltip .mytooltiptext img {
+				border: none !important;
+			}
+
+			#results_container,
+			#overall_details_container h3,
+			#overall_election_details h4,
+			#main_content_area_reading p,
+			#main_content_area_reading h3.results_tab_header,
+			.inner_window_w_desc h3,
+			#credits {
+				text-shadow: var(--text-shadow-strong);
+			}
+
+			.campaign_trail_start_emphasis {
+				background: linear-gradient(to bottom, rgba(255, 255, 255, 0.85), rgba(230, 230, 230, 0.6));
+				border: 1px solid rgba(255, 255, 255, 0.4);
+				border-radius: var(--glass-radius);
+			}
+
+			#closeButton:hover {
+				filter: brightness(1.2);
+			}
+
+			#closeIcon {
+				opacity: 0.8;
+				transition: opacity 0.2s ease-in-out;
+			}
+
+			#closeIcon:hover {
+				opacity: 1;
+			}
+
+			.content_single {
+				border: none;
+				padding-top: 2px;
+			}
+			
+			
+`;
+
+ensureMetaViewport();
+applyGlobalStyles(css, 'mod-style');
 
 let contentBox = document.getElementsByClassName("content_box")[0];
 let contentSingle = document.getElementsByClassName("content_single")[0];
-
 let containerRef = document.getElementsByClassName("container")[0];
 
 function createBanner(url, sibling, isLeft) {
-    let div = document.createElement("DIV");
-    let img = document.createElement("IMG");
-    div.style.position = "relative";
-    div.style.margin = "auto";
+    let div = document.createElement("div");
+    let img = document.createElement("img");
+    
+    div.style.cssText = "position: relative; margin: auto;";
     img.src = url;
-
-
-    let x = document.createElement("DIV");
+    
+    let x = document.createElement("div");
     x.innerText = "_";
-    x.style.position = "absolute";
-    x.style.padding = "2px";
-    x.style.fontSize = "2pt";
-    x.style.cursor = "pointer";
-
+    x.style.cssText = "position: absolute; padding: 5px; font-size: 2pt; cursor: pointer;";
+    
     div.appendChild(x);
-
     div.appendChild(img);
-
+    
     if (isLeft) {
         sibling.parentNode.insertBefore(div, sibling);
+    } else {
+        sibling.parentNode.insertBefore(div, sibling.nextSibling);
     }
-    else {
-        sibling.parentNode.appendChild(div);
-    }
+    
     x.onclick = () => div.style.visibility = "hidden";
-    x.onclick = () => img.style.visibility = "hidden";
+    
     return img;
 }
 
@@ -1084,7 +1125,7 @@ function createBanner(url, sibling, isLeft) {
       if (cb) cb.checked = Boolean(window.campaignTrail_temp?.hidden_mode);
       const note = document.getElementById("hidden_label");
       if (note) note.textContent = window.campaignTrail_temp?.hidden_label
-        ?? "Hides common swear words from displayed text.";
+        ?? "Congratulations on completing THE OBAMANATION! Please enjoy this exclusive endgame mode.";
       return;
     }
 
@@ -1204,127 +1245,127 @@ function createBanner(url, sibling, isLeft) {
 
     // banner list
     const banners = [{
-        url: "https://i.imgur.com/7XmMaJY.jpeg",
+        url: "https://file.garden/aNtAfG887DiA_7lO/Obamanation/Code1/7XmMaJY.jpeg",
         alt: "Romney banner",
         weight: 1
     },
     {
-        url: "https://i.imgur.com/YEkARdf.jpeg",
+        url: "https://file.garden/aNtAfG887DiA_7lO/Obamanation/Code1/YEkARdf.jpeg",
         alt: "Romney banner 2",
         weight: 1
     },
     {
-        url: "https://i.imgur.com/thufQyE.jpeg",
+        url: "https://file.garden/aNtAfG887DiA_7lO/Obamanation/Code1/thufQyE.jpeg",
         alt: "Bachmann banner",
         weight: 1
     },
     {
-        url: "https://i.imgur.com/UsxAPKI.png",
+        url: "https://file.garden/aNtAfG887DiA_7lO/Obamanation/Code1/UsxAPKI.png",
         alt: "Bachmann banner 2",
         weight: 1
     },
     {
-        url: "https://i.imgur.com/xm0QayS.png",
+        url: "https://file.garden/aNtAfG887DiA_7lO/Obamanation/Code1/xm0QayS.png",
         alt: "Newt banner",
         weight: 1
     },
     {
-        url: "https://i.imgur.com/fVq2Sl3.jpeg",
+        url: "https://file.garden/aNtAfG887DiA_7lO/Obamanation/Code1/fVq2Sl3.jpeg",
         alt: "Newt banner 2",
         weight: 1
     },
     {
-        url: "https://i.imgur.com/GfNHWpv.gif",
+        url: "https://file.garden/aNtAfG887DiA_7lO/Obamanation/Code1/GfNHWpv.gif",
         alt: "Newt banner 3",
         weight: 1
     },
     {
-        url: "https://i.imgur.com/9Vg9RLG.gif",
+        url: "https://file.garden/aNtAfG887DiA_7lO/Obamanation/Code1/9Vg9RLG.gif",
         alt: "Paul banner",
         weight: 1
     },
     {
-        url: "https://i.imgur.com/zHquJx2.gif",
+        url: "https://file.garden/aNtAfG887DiA_7lO/Obamanation/Code1/zHquJx2.gif",
         alt: "Paul banner 2",
         weight: 1
     },
     {
-        url: "https://i.imgur.com/ukLm8N4.png",
+        url: "https://file.garden/aNtAfG887DiA_7lO/Obamanation/Code1/ukLm8N4.png",
         alt: "Obama banner",
         weight: 1
     },
     {
-        url: "https://i.imgur.com/f0PKMJT.jpeg",
+        url: "https://file.garden/aNtAfG887DiA_7lO/Obamanation/Code1/f0PKMJT.jpeg",
         alt: "Obama banner 2",
         weight: 1
     },
     {
-        url: "https://i.imgur.com/NtmO7rS.jpeg",
+        url: "https://file.garden/aNtAfG887DiA_7lO/Obamanation/Code1/NtmO7rS.jpeg",
         alt: "Obama banner 3",
         weight: 1
     },
     {
-        url: "https://i.imgur.com/YpMlnsi.jpeg",
+        url: "https://file.garden/aNtAfG887DiA_7lO/Obamanation/Code1/YpMlnsi.jpeg",
         alt: "Americans Elect banner",
         weight: 1
     },
     {
-        url: "https://i.imgur.com/0F2FLEq.gif",
+        url: "https://file.garden/aNtAfG887DiA_7lO/Obamanation/Code1/0F2FLEq.gif",
         alt: "Paul banner 3",
         weight: 1
     },
     {
-        url: "https://i.imgur.com/q8xpBk8.png",
+        url: "https://file.garden/aNtAfG887DiA_7lO/Obamanation/Code1/q8xpBk8.png",
         alt: "Obama banner 4",
         weight: 1
     },
     {
-        url: "https://i.imgur.com/wxATRjI.png",
+        url: "https://file.garden/aNtAfG887DiA_7lO/Obamanation/Code1/wxATRjI.png",
         alt: "Obama banner 5",
         weight: 1
     },
     {
-        url: "https://i.imgur.com/4Hx16oH.gif",
+        url: "https://file.garden/aNtAfG887DiA_7lO/Obamanation/Code1/4Hx16oH.gif",
         alt: "Paul banner 4",
         weight: 1
     },
     {
-        url: "https://i.imgur.com/UjvXM13.jpeg",
+        url: "https://file.garden/aNtAfG887DiA_7lO/Obamanation/Code1/UjvXM13.jpeg",
         alt: "Romney banner 3",
         weight: 1
     },
     {
-        url: "https://i.imgur.com/uXqDDRh.jpeg",
+        url: "https://file.garden/aNtAfG887DiA_7lO/Obamanation/Code1/uXqDDRh.jpeg",
         alt: "Obama banner 6",
         weight: 1
     },
     {
-        url: "https://i.imgur.com/LSvy7G2.png",
+        url: "https://file.garden/aNtAfG887DiA_7lO/Obamanation/Code1/LSvy7G2.png",
         alt: "Obama banner 7",
         weight: 1
     },
     {
-        url: "https://i.imgur.com/0dPPCYB.jpeg",
+        url: "https://file.garden/aNtAfG887DiA_7lO/Obamanation/Code1/0dPPCYB.jpeg",
         alt: "Obama banner 8",
         weight: 1
     },
     {
-        url: "https://i.imgur.com/jErplfc.jpeg",
+        url: "https://file.garden/aNtAfG887DiA_7lO/Obamanation/Code1/jErplfc.jpeg",
         alt: "NRA banner",
         weight: 1
     },
     {
-        url: "https://i.imgur.com/RgEMcAU.jpeg",
+        url: "https://file.garden/aNtAfG887DiA_7lO/Obamanation/Code1/RgEMcAU.jpeg",
         alt: "Bing banner",
         weight: 1
     },
     {
-        url: "https://i.imgur.com/8EGiNz6.gif",
+        url: "https://file.garden/aNtAfG887DiA_7lO/Obamanation/Code1/8EGiNz6.gif",
         alt: "Newt banner 4",
         weight: 1
     },
     {
-        url: "https://i.imgur.com/lLF89xd.jpeg",
+        url: "https://file.garden/aNtAfG887DiA_7lO/Obamanation/Code1/lLF89xd.jpeg",
         alt: "Romney banner 4",
         weight: 1
     },
@@ -1553,7 +1594,7 @@ function createBanner(url, sibling, isLeft) {
                 border-width: 5px;
                 background: transparent;
                 padding: 0;
-                margin: 1em .3em 1em 2em;
+                margin: 1em .3em 1em 1em;
                 position: relative;
                 overflow: hidden;
                 cursor: pointer;
@@ -1770,102 +1811,102 @@ function createBanner(url, sibling, isLeft) {
 )();
 
 tooltipList = [
-    { searchString: "George Bush", explanationText: "<img src=https://i.imgur.com/U86BSCC.jpeg> Don't know what you got until it's gone." },
-    { searchString: "Reverend Wright", explanationText: "<img src=https://i.imgur.com/hVCiyDT.jpeg> One of your ex-mentors, persona non grata in Washington." },
-    { searchString: "Wright", explanationText: "<img src=https://i.imgur.com/hVCiyDT.jpeg> One of your ex-mentors, persona non grata in Washington." },
-    { searchString: "Tom Daschle", explanationText: "<img src=https://i.imgur.com/diZNN3g.jpeg> Former Democratic Senate Majority Leader from South Dakota. Product of a bygone era." },
-    { searchString: "Daschle", explanationText: "<img src=https://i.imgur.com/diZNN3g.jpeg> Former Democratic Senate Majority Leader from South Dakota. Product of a bygone era." },
-    { searchString: "Donna Shalala", explanationText: "<img src=https://i.imgur.com/pTtr7Uh.jpeg> Castro devotee." },
-    { searchString: "John Kitzhaber", explanationText: "<img src=https://i.imgur.com/EugQH3l.jpeg> He wears blue jeans, so he's just like you and me." },
-    { searchString: "Jennifer Granholm", explanationText: "<img src=https://i.imgur.com/bCiRAO2.jpeg> Distinguished <i>Dating Game</i> alumni, along with Paul Reubens, Steve Martin and Rodney Alcala." },
-    { searchString: "Kathleen Sebelius", explanationText: "<img src=https://i.imgur.com/rdm30hS.jpeg> Doomed to irrelevancy and alternate history fiction." },
-    { searchString: "Nancy Pelosi", explanationText: "<img src=https://i.imgur.com/HcKjSNG.jpeg> Facebook Status: Hammered." },
-    { searchString: "Pelosi", explanationText: "<img src=https://i.imgur.com/HcKjSNG.jpeg> Facebook Status: Hammered." },
-    { searchString: "Harry Reid", explanationText: "<img src=https://i.imgur.com/mxKgddi.jpeg> The Democratic Senate Majority Leader, confident this country is ready to embrace a “light-skinned” African-American “with no Negro dialect” such as yourself." },
-    { searchString: "Reid", explanationText: "<img src=https://i.imgur.com/mxKgddi.jpeg> The Democratic Senate Majority Leader, confident this country is ready to embrace a “light-skinned” African-American “with no Negro dialect” such as yourself." },
-    { searchString: "Gibbs", explanationText: "<img src=https://i.imgur.com/8n3Wihe.jpeg> White House Press Secretary." },
-    { searchString: "Hillary's husband", explanationText: "<img src=https://i.imgur.com/xs7jPNm.jpeg> Serial predator and your Secretary of State's “beard.” Previously the first Black president." },
-    { searchString: "blob", explanationText: "<img src=https://i.imgur.com/XT16zfN.jpeg> As Rhodes calls it, a conglomerate of supposedly nefarious forces who seek further involvement in the Middle East. Many of them currently residing in your Cabinet." },
-    { searchString: "Rhodes", explanationText: "<img src=https://i.imgur.com/8eJ6O6i.jpeg> Speechwriter and advisor on national security. One of the idealistic liberals in your administration." },
-    { searchString: "Bill", explanationText: "<img src=https://i.imgur.com/kMIZs2u.jpeg> That little devil on your shoulder." },
-    { searchString: "Ayers", explanationText: "<img src=https://i.imgur.com/kMIZs2u.jpeg> That little devil on your shoulder." },
-    { searchString: "Farrakhan", explanationText: "<img src=https://i.imgur.com/6AIeA3j.png> Shadow spiritual advisor." },
-    { searchString: "David Axelrod", explanationText: "<img src=https://i.imgur.com/UlwyKpX.jpeg> Storyteller." },
-    { searchString: "Axelrod", explanationText: "<img src=https://i.imgur.com/UlwyKpX.jpeg> Storyteller." },
-    { searchString: "Rahm Emanuel", explanationText: "<img src=https://i.imgur.com/QksyHVq.jpeg> Angry." },
-    { searchString: "Rahm", explanationText: "<img src=https://i.imgur.com/QksyHVq.jpeg> Angry." },
-    { searchString: "Mitch McConnell", explanationText: "<img src=https://i.imgur.com/LROSY6r.jpeg> Part-time Senate Republican leader, full-time hater." },
-    { searchString: "McConnell", explanationText: "<img src=https://i.imgur.com/LROSY6r.jpeg> Part-time Senate Republican leader, full-time hater." },
-    { searchString: "John Boehner", explanationText: "<img src=https://i.imgur.com/HFRocAv.jpeg> House Republican leader." },
-    { searchString: "Boehner", explanationText: "<img src=https://i.imgur.com/HFRocAv.jpeg> House Republican leader." },
-    { searchString: "Bob Bauer", explanationText: "<img src=https://i.imgur.com/ujXmSnP.jpeg> White House Counsel. The sledgehammer." },
-    { searchString: "Robert Gates", explanationText: "<img src=https://i.imgur.com/eti4kCD.jpeg> A testament to the amount of change we should be expecting from your presidency?" },
-    { searchString: "Larry Summers", explanationText: "<img src=https://i.imgur.com/CbA8pXH.jpeg> Failing upwards." },
-    { searchString: "Barney", explanationText: "<img src=https://i.imgur.com/KQhRYUr.jpeg> Nipples protruding." },
-    { searchString: "Barney Frank", explanationText: "<img src=https://i.imgur.com/KQhRYUr.jpeg> Nipples protruding." },
-    { searchString: "Glenn Beck", explanationText: "<img src=https://i.imgur.com/nZJc2Yl.jpeg> School's in session." },
-    { searchString: "Michelle", explanationText: "<img src=https://i.imgur.com/JZJTOJc.jpeg> Proud of her country." },
-    { searchString: "Muammar Gaddafi", explanationText: "<img src=https://i.imgur.com/3X5d8we.jpeg> Libya's strongman. That is how you spell it, right?" },
-    { searchString: "Hosni Mubarak", explanationText: "<img src=https://i.imgur.com/BhPZfnn.jpeg> President of Egypt." },
-    { searchString: "Mubarak", explanationText: "<img src=https://i.imgur.com/BhPZfnn.jpeg> President of Egypt." },
-    { searchString: "Osama bin Laden", explanationText: "<img src=https://i.imgur.com/GYK52Cp.jpeg> Chickens come to roost." },
-    { searchString: "Boris Johnson", explanationText: "<img src=https://i.imgur.com/XqIMQ67.jpeg> Seconds before disaster." },
-    { searchString: "midterm losses", explanationText: "<img src=https://i.imgur.com/IqA2JrJ.jpeg> The 2010 midterms saw the Democrats clobbered as several Senate seats flipped Republican, only held together by a 50-50 tie; the House returned to GOP control by an overwhelming margin, dethroning Speaker Pelosi and her ilk." },
-    { searchString: "Eric Holder", explanationText: "<img src=https://i.imgur.com/ORXMiSq.jpeg> Your resident hatchet man." },
-    { searchString: "Loretta Lynch", explanationText: "<img src=https://i.imgur.com/hHWoxWC.jpeg> Holder's replacement, the new Attorney General." },
-    { searchString: "David Cameron", explanationText: "<img src=https://i.imgur.com/m68tcuG.jpeg> Pigfucker." },
-    { searchString: "Nicolas Sarkozy", explanationText: "<img src=https://i.imgur.com/jS3kPlD.jpeg> The arbiter of what makes a good world leader." },
-    { searchString: "Kamala Harris", explanationText: "<img src=https://i.imgur.com/IXS6ixu.jpeg> Existing in the context of what came before her." },
-    { searchString: "Goodwin Liu", explanationText: "<img src=https://i.imgur.com/FBuxDTi.jpeg> The potential bane of Justice Alito's existence." },
-    { searchString: "Keith Ellison", explanationText: "<img src=https://i.imgur.com/RoxtRdg.jpeg> Time to break out the Quran again." },
-    { searchString: "Arab Spring", explanationText: "<img src=https://i.imgur.com/hqRI0dL.jpeg> Anti-government protests breaking out across the Middle East, triggered by a fatigue of charismatic demagogues, breadlines, and economic stagnation. Take note, Barack." },
-    { searchString: "Harvey Weinstein", explanationText: "<img src=https://i.imgur.com/PsPrD5v.jpeg> Tinseltown Democrat megadonor." },
-    { searchString: "Pete Souza's photo", explanationText: "<img src=https://i.imgur.com/snKgPIP.jpeg> History in the making." },
-    { searchString: "Leon Panetta", explanationText: "<img src=https://i.imgur.com/aFz0JKk.jpeg> Director of the CIA, succeeding Michael Hayden." },
-    { searchString: "John Brennan", explanationText: "<img src=https://i.imgur.com/baYNzND.jpeg> Homeland Security advisor, drone apologist, “principal coordinator” of our kill lists." },
-    { searchString: "Binyamin Netanyahu", explanationText: "<img src=https://i.imgur.com/EeIYss4.jpeg> Mr. America." },
-    { searchString: "Bibi", explanationText: "<img src=https://i.imgur.com/EeIYss4.jpeg> Mr. America." },
-    { searchString: "Eric", explanationText: "<img src=https://i.imgur.com/HWl4eS8.jpeg> Republican House Majority Leader." },
-    { searchString: "Gaddafi's fate", explanationText: "<img src=https://i.imgur.com/jolDsmN.jpeg> “We came, we saw, he died!”" },
-    { searchString: "Bashar al-Assad", explanationText: "<img src=https://i.imgur.com/TDIiBV1.jpeg> He must go. He must go. He must go. He must go. He must go. He must go. He must go." },
-    { searchString: "Vladimir Putin", explanationText: "<img src=https://i.imgur.com/5itQANU.jpeg> President of the Russian Federation since 1999, ignoring the fake one they currently have in-office." },
-    { searchString: "John Bolton", explanationText: "<img src=https://i.imgur.com/wnqkyuY.jpeg> <i>The Lorax</i>, starring Zac Efron, Taylor Swift, Danny DeVito and Ed Helms, coming to theaters next year." },
-    { searchString: "Daley", explanationText: "<img src=https://i.imgur.com/mJ3oAyt.jpeg> He and his dad will both be voting for you next year." },
+    { searchString: "George Bush", explanationText: "<img src=https://file.garden/aNtAfG887DiA_7lO/Obamanation/Code1/U86BSCC.jpeg> Don't know what you got until it's gone." },
+    { searchString: "Reverend Wright", explanationText: "<img src=https://file.garden/aNtAfG887DiA_7lO/Obamanation/Code1/hVCiyDT.jpeg> One of your ex-mentors, persona non grata in Washington." },
+    { searchString: "Wright", explanationText: "<img src=https://file.garden/aNtAfG887DiA_7lO/Obamanation/Code1/hVCiyDT.jpeg> One of your ex-mentors, persona non grata in Washington." },
+    { searchString: "Tom Daschle", explanationText: "<img src=https://file.garden/aNtAfG887DiA_7lO/Obamanation/Code1/diZNN3g.jpeg> Former Democratic Senate Majority Leader from South Dakota. Product of a bygone era." },
+    { searchString: "Daschle", explanationText: "<img src=https://file.garden/aNtAfG887DiA_7lO/Obamanation/Code1/diZNN3g.jpeg> Former Democratic Senate Majority Leader from South Dakota. Product of a bygone era." },
+    { searchString: "Donna Shalala", explanationText: "<img src=https://file.garden/aNtAfG887DiA_7lO/Obamanation/Code1/pTtr7Uh.jpeg> Castro devotee." },
+    { searchString: "John Kitzhaber", explanationText: "<img src=https://file.garden/aNtAfG887DiA_7lO/Obamanation/Code1/EugQH3l.jpeg> He wears blue jeans, so he's just like you and me." },
+    { searchString: "Jennifer Granholm", explanationText: "<img src=https://file.garden/aNtAfG887DiA_7lO/Obamanation/Code1/bCiRAO2.jpeg> Distinguished <i>Dating Game</i> alumni, along with Paul Reubens, Steve Martin and Rodney Alcala." },
+    { searchString: "Kathleen Sebelius", explanationText: "<img src=https://file.garden/aNtAfG887DiA_7lO/Obamanation/Code1/rdm30hS.jpeg> Doomed to irrelevancy and alternate history fiction." },
+    { searchString: "Nancy Pelosi", explanationText: "<img src=https://file.garden/aNtAfG887DiA_7lO/Obamanation/Code1/HcKjSNG.jpeg> Facebook Status: Hammered." },
+    { searchString: "Pelosi", explanationText: "<img src=https://file.garden/aNtAfG887DiA_7lO/Obamanation/Code1/HcKjSNG.jpeg> Facebook Status: Hammered." },
+    { searchString: "Harry Reid", explanationText: "<img src=https://file.garden/aNtAfG887DiA_7lO/Obamanation/Code1/mxKgddi.jpeg> The Democratic Senate Majority Leader, confident this country is ready to embrace a “light-skinned” African-American “with no Negro dialect” such as yourself." },
+    { searchString: "Reid", explanationText: "<img src=https://file.garden/aNtAfG887DiA_7lO/Obamanation/Code1/mxKgddi.jpeg> The Democratic Senate Majority Leader, confident this country is ready to embrace a “light-skinned” African-American “with no Negro dialect” such as yourself." },
+    { searchString: "Gibbs", explanationText: "<img src=https://file.garden/aNtAfG887DiA_7lO/Obamanation/Code1/8n3Wihe.jpeg> White House Press Secretary." },
+    { searchString: "Hillary's husband", explanationText: "<img src=https://file.garden/aNtAfG887DiA_7lO/Obamanation/Code1/xs7jPNm.jpeg> Serial predator and your Secretary of State's “beard.” Previously the first Black president." },
+    { searchString: "blob", explanationText: "<img src=https://file.garden/aNtAfG887DiA_7lO/Obamanation/Code1/XT16zfN.jpeg> As Rhodes calls it, a conglomerate of supposedly nefarious forces who seek further involvement in the Middle East. Many of them currently residing in your Cabinet." },
+    { searchString: "Rhodes", explanationText: "<img src=https://file.garden/aNtAfG887DiA_7lO/Obamanation/Code1/8eJ6O6i.jpeg> Speechwriter and advisor on national security. One of the idealistic liberals in your administration." },
+    { searchString: "Bill", explanationText: "<img src=https://file.garden/aNtAfG887DiA_7lO/Obamanation/Code1/kMIZs2u.jpeg> That little devil on your shoulder." },
+    { searchString: "Ayers", explanationText: "<img src=https://file.garden/aNtAfG887DiA_7lO/Obamanation/Code1/kMIZs2u.jpeg> That little devil on your shoulder." },
+    { searchString: "Farrakhan", explanationText: "<img src=https://file.garden/aNtAfG887DiA_7lO/Obamanation/Code1/6AIeA3j.png> Shadow spiritual advisor." },
+    { searchString: "David Axelrod", explanationText: "<img src=https://file.garden/aNtAfG887DiA_7lO/Obamanation/Code1/UlwyKpX.jpeg> Storyteller." },
+    { searchString: "Axelrod", explanationText: "<img src=https://file.garden/aNtAfG887DiA_7lO/Obamanation/Code1/UlwyKpX.jpeg> Storyteller." },
+    { searchString: "Rahm Emanuel", explanationText: "<img src=https://file.garden/aNtAfG887DiA_7lO/Obamanation/Code1/QksyHVq.jpeg> Angry." },
+    { searchString: "Rahm", explanationText: "<img src=https://file.garden/aNtAfG887DiA_7lO/Obamanation/Code1/QksyHVq.jpeg> Angry." },
+    { searchString: "Mitch McConnell", explanationText: "<img src=https://file.garden/aNtAfG887DiA_7lO/Obamanation/Code1/LROSY6r.jpeg> Part-time Senate Republican leader, full-time hater." },
+    { searchString: "McConnell", explanationText: "<img src=https://file.garden/aNtAfG887DiA_7lO/Obamanation/Code1/LROSY6r.jpeg> Part-time Senate Republican leader, full-time hater." },
+    { searchString: "John Boehner", explanationText: "<img src=https://file.garden/aNtAfG887DiA_7lO/Obamanation/Code1/HFRocAv.jpeg> House Republican leader." },
+    { searchString: "Boehner", explanationText: "<img src=https://file.garden/aNtAfG887DiA_7lO/Obamanation/Code1/HFRocAv.jpeg> House Republican leader." },
+    { searchString: "Bob Bauer", explanationText: "<img src=https://file.garden/aNtAfG887DiA_7lO/Obamanation/Code1/ujXmSnP.jpeg> White House Counsel. The sledgehammer." },
+    { searchString: "Robert Gates", explanationText: "<img src=https://file.garden/aNtAfG887DiA_7lO/Obamanation/Code1/eti4kCD.jpeg> A testament to the amount of change we should be expecting from your presidency?" },
+    { searchString: "Larry Summers", explanationText: "<img src=https://file.garden/aNtAfG887DiA_7lO/Obamanation/Code1/CbA8pXH.jpeg> Failing upwards." },
+    { searchString: "Barney", explanationText: "<img src=https://file.garden/aNtAfG887DiA_7lO/Obamanation/Code1/KQhRYUr.jpeg> Nipples protruding." },
+    { searchString: "Barney Frank", explanationText: "<img src=https://file.garden/aNtAfG887DiA_7lO/Obamanation/Code1/KQhRYUr.jpeg> Nipples protruding." },
+    { searchString: "Glenn Beck", explanationText: "<img src=https://file.garden/aNtAfG887DiA_7lO/Obamanation/Code1/nZJc2Yl.jpeg> School's in session." },
+    { searchString: "Michelle", explanationText: "<img src=https://file.garden/aNtAfG887DiA_7lO/Obamanation/Code1/JZJTOJc.jpeg> Proud of her country." },
+    { searchString: "Muammar Gaddafi", explanationText: "<img src=https://file.garden/aNtAfG887DiA_7lO/Obamanation/Code1/3X5d8we.jpeg> Libya's strongman. That is how you spell it, right?" },
+    { searchString: "Hosni Mubarak", explanationText: "<img src=https://file.garden/aNtAfG887DiA_7lO/Obamanation/Code1/BhPZfnn.jpeg> President of Egypt." },
+    { searchString: "Mubarak", explanationText: "<img src=https://file.garden/aNtAfG887DiA_7lO/Obamanation/Code1/BhPZfnn.jpeg> President of Egypt." },
+    { searchString: "Osama bin Laden", explanationText: "<img src=https://file.garden/aNtAfG887DiA_7lO/Obamanation/Code1/GYK52Cp.jpeg> Chickens come to roost." },
+    { searchString: "Boris Johnson", explanationText: "<img src=https://file.garden/aNtAfG887DiA_7lO/Obamanation/Code1/XqIMQ67.jpeg> Seconds before disaster." },
+    { searchString: "midterm losses", explanationText: "<img src=https://file.garden/aNtAfG887DiA_7lO/Obamanation/Code1/IqA2JrJ.jpeg> The 2010 midterms saw the Democrats clobbered as several Senate seats flipped Republican, only held together by a 50-50 tie; the House returned to GOP control by an overwhelming margin, dethroning Speaker Pelosi and her ilk." },
+    { searchString: "Eric Holder", explanationText: "<img src=https://file.garden/aNtAfG887DiA_7lO/Obamanation/Code1/ORXMiSq.jpeg> Your resident hatchet man." },
+    { searchString: "Loretta Lynch", explanationText: "<img src=https://file.garden/aNtAfG887DiA_7lO/Obamanation/Code1/hHWoxWC.jpeg> Holder's replacement, the new Attorney General." },
+    { searchString: "David Cameron", explanationText: "<img src=https://file.garden/aNtAfG887DiA_7lO/Obamanation/Code1/m68tcuG.jpeg> Pigfucker." },
+    { searchString: "Nicolas Sarkozy", explanationText: "<img src=https://file.garden/aNtAfG887DiA_7lO/Obamanation/Code1/jS3kPlD.jpeg> The arbiter of what makes a good world leader." },
+    { searchString: "Kamala Harris", explanationText: "<img src=https://file.garden/aNtAfG887DiA_7lO/Obamanation/Code1/IXS6ixu.jpeg> Existing in the context of what came before her." },
+    { searchString: "Goodwin Liu", explanationText: "<img src=https://file.garden/aNtAfG887DiA_7lO/Obamanation/Code1/FBuxDTi.jpeg> The potential bane of Justice Alito's existence." },
+    { searchString: "Keith Ellison", explanationText: "<img src=https://file.garden/aNtAfG887DiA_7lO/Obamanation/Code1/RoxtRdg.jpeg> Time to break out the Quran again." },
+    { searchString: "Arab Spring", explanationText: "<img src=https://file.garden/aNtAfG887DiA_7lO/Obamanation/Code1/hqRI0dL.jpeg> Anti-government protests breaking out across the Middle East, triggered by a fatigue of charismatic demagogues, breadlines, and economic stagnation. Take note, Barack." },
+    { searchString: "Harvey Weinstein", explanationText: "<img src=https://file.garden/aNtAfG887DiA_7lO/Obamanation/Code1/PsPrD5v.jpeg> Tinseltown Democrat megadonor." },
+    { searchString: "Pete Souza's photo", explanationText: "<img src=https://file.garden/aNtAfG887DiA_7lO/Obamanation/Code1/snKgPIP.jpeg> History in the making." },
+    { searchString: "Leon Panetta", explanationText: "<img src=https://file.garden/aNtAfG887DiA_7lO/Obamanation/Code1/aFz0JKk.jpeg> Director of the CIA, succeeding Michael Hayden." },
+    { searchString: "John Brennan", explanationText: "<img src=https://file.garden/aNtAfG887DiA_7lO/Obamanation/Code1/baYNzND.jpeg> Homeland Security advisor, drone apologist, “principal coordinator” of our kill lists." },
+    { searchString: "Binyamin Netanyahu", explanationText: "<img src=https://file.garden/aNtAfG887DiA_7lO/Obamanation/Code1/EeIYss4.jpeg> Mr. America." },
+    { searchString: "Bibi", explanationText: "<img src=https://file.garden/aNtAfG887DiA_7lO/Obamanation/Code1/EeIYss4.jpeg> Mr. America." },
+    { searchString: "Eric", explanationText: "<img src=https://file.garden/aNtAfG887DiA_7lO/Obamanation/Code1/HWl4eS8.jpeg> Republican House Majority Leader." },
+    { searchString: "Gaddafi's fate", explanationText: "<img src=https://file.garden/aNtAfG887DiA_7lO/Obamanation/Code1/jolDsmN.jpeg> “We came, we saw, he died!”" },
+    { searchString: "Bashar al-Assad", explanationText: "<img src=https://file.garden/aNtAfG887DiA_7lO/Obamanation/Code1/TDIiBV1.jpeg> He must go. He must go. He must go. He must go. He must go. He must go. He must go." },
+    { searchString: "Vladimir Putin", explanationText: "<img src=https://file.garden/aNtAfG887DiA_7lO/Obamanation/Code1/5itQANU.jpeg> President of the Russian Federation since 1999, ignoring the fake one they currently have in-office." },
+    { searchString: "John Bolton", explanationText: "<img src=https://file.garden/aNtAfG887DiA_7lO/Obamanation/Code1/wnqkyuY.jpeg> <i>The Lorax</i>, starring Zac Efron, Taylor Swift, Danny DeVito and Ed Helms, coming to theaters next year." },
+    { searchString: "Daley", explanationText: "<img src=https://file.garden/aNtAfG887DiA_7lO/Obamanation/Code1/mJ3oAyt.jpeg> He and his dad will both be voting for you next year." },
     { searchString: "Occupy Wall Street", explanationText: "Somehow made New York smell worse than it already does." },
-    { searchString: "birth certificate", explanationText: "<img src=https://i.imgur.com/iJIwau2.jpeg> The question on everyone's mind." },
-    { searchString: "birth certificates", explanationText: "<img src=https://i.imgur.com/iJIwau2.jpeg> The question on everyone's mind." },
-    { searchString: "George Osborne", explanationText: "<img src=https://i.imgur.com/kWiT3io.jpeg> Not a pigfucker, though we're looking into it." },
-    { searchString: "François Hollande", explanationText: "<img src=https://i.imgur.com/yZ2E0kO.jpeg> Destined to be a popular leader." },
-    { searchString: "Ted Turner", explanationText: "<img src=https://i.imgur.com/3jWZkyf.jpeg> Mouth of the South." },
-    { searchString: "most receptive to his message", explanationText: "<img src=https://i.imgur.com/94Z1Mzh.jpeg> Crackers." },
-    { searchString: "Rmoney", explanationText: "<img src=https://i.imgur.com/eYqjoZ0.jpeg> Ching ching." },
-    { searchString: "Anthony Weiner", explanationText: "<img src=https://i.imgur.com/OuxWbq2.jpeg> Former congressman, husband to Clinton aide, and one of the world's great sleazebags." },
-    { searchString: "Sun Myung Moon", explanationText: "<img src=https://i.imgur.com/rMncfiP.jpeg> Korean cult leader." },
-    { searchString: "red ripple", explanationText: "<img src=https://i.imgur.com/RglaWRY.jpeg> The 2010 midterms saw the Democrats fare much better than originally thought, keeping hold of a 53 seat majority in the Senate following close wins in Illinois and Wisconsin; the House returned to GOP control, but by a smaller than estimated margin, dethroning Speaker Pelosi and her ilk." },
-    { searchString: "Saudi King Abdullah", explanationText: "<img src=https://i.imgur.com/fW2MoLm.jpeg> 30 wives and counting." },
-    { searchString: "Duncan", explanationText: "<img src=https://i.imgur.com/xX4ysZG.jpeg> Secretary of Education and mastermind behind Common Core." },
-    { searchString: "Molech", explanationText: "<img src=https://i.imgur.com/CT8v1VB.jpeg> Where the magic happens." },
-    { searchString: "Kevin Spacey", explanationText: "<img src=https://i.imgur.com/pnpaYFJ.jpeg> Open secret." },
-    { searchString: "guacamole bowl", explanationText: "<img src=https://i.imgur.com/Cu30O7e.jpeg> While supplies last." },
-    { searchString: "Robert Mueller", explanationText: "<img src=https://i.imgur.com/pbBm3QV.jpeg> Uniparty whore, agent of the state, ugly prick." },
-    { searchString: "elder Bush", explanationText: "<img src=https://i.imgur.com/W7DDGzs.jpeg> Looking for some ass to grab." },
-    { searchString: "Bush's daddy", explanationText: "<img src=https://i.imgur.com/W7DDGzs.jpeg> Looking for some ass to grab." },
-    { searchString: "Nancy Reagan", explanationText: "<img src=https://i.imgur.com/JWofLqw.jpeg> Known for the full-throated support she'd give to the men in her life." },
-    { searchString: "empty chair", explanationText: "<img src=https://i.imgur.com/lSIHFsU.jpeg> #PWNED" },
-    { searchString: "Malik Obama", explanationText: "<img src=https://i.imgur.com/9WbOJVi.jpeg> A brotherly bond that'll surely stand the test of time." },
-    { searchString: "Slenderman", explanationText: "<img src=https://i.imgur.com/wn6lU0p.jpeg> Leers over less children than your vice president." },
-    { searchString: "From the angle of the photo taken", explanationText: "<img src=https://i.imgur.com/cOKOnNd.jpeg> A big hug." }
+    { searchString: "birth certificate", explanationText: "<img src=https://file.garden/aNtAfG887DiA_7lO/Obamanation/Code1/iJIwau2.jpeg> The question on everyone's mind." },
+    { searchString: "birth certificates", explanationText: "<img src=https://file.garden/aNtAfG887DiA_7lO/Obamanation/Code1/iJIwau2.jpeg> The question on everyone's mind." },
+    { searchString: "George Osborne", explanationText: "<img src=https://file.garden/aNtAfG887DiA_7lO/Obamanation/Code1/kWiT3io.jpeg> Not a pigfucker, though we're looking into it." },
+    { searchString: "François Hollande", explanationText: "<img src=https://file.garden/aNtAfG887DiA_7lO/Obamanation/Code1/yZ2E0kO.jpeg> Destined to be a popular leader." },
+    { searchString: "Ted Turner", explanationText: "<img src=https://file.garden/aNtAfG887DiA_7lO/Obamanation/Code1/3jWZkyf.jpeg> Mouth of the South." },
+    { searchString: "most receptive to his message", explanationText: "<img src=https://file.garden/aNtAfG887DiA_7lO/Obamanation/Code1/94Z1Mzh.jpeg> Crackers." },
+    { searchString: "Rmoney", explanationText: "<img src=https://file.garden/aNtAfG887DiA_7lO/Obamanation/Code1/eYqjoZ0.jpeg> Ching ching." },
+    { searchString: "Anthony Weiner", explanationText: "<img src=https://file.garden/aNtAfG887DiA_7lO/Obamanation/Code1/OuxWbq2.jpeg> Former congressman, husband to Clinton aide, and one of the world's great sleazebags." },
+    { searchString: "Sun Myung Moon", explanationText: "<img src=https://file.garden/aNtAfG887DiA_7lO/Obamanation/Code1/rMncfiP.jpeg> Korean cult leader." },
+    { searchString: "turned out to be more of a red ripple", explanationText: "<img src=https://file.garden/aNtAfG887DiA_7lO/Obamanation/Code1/RglaWRY.jpeg> The 2010 midterms saw the Democrats fare much better than originally thought, keeping hold of a 53 seat majority in the Senate following close wins in Illinois and Wisconsin; the House returned to GOP control, but by a smaller than estimated margin, dethroning Speaker Pelosi and her ilk." },
+    { searchString: "Saudi King Abdullah", explanationText: "<img src=https://file.garden/aNtAfG887DiA_7lO/Obamanation/Code1/fW2MoLm.jpeg> 30 wives and counting." },
+    { searchString: "Duncan", explanationText: "<img src=https://file.garden/aNtAfG887DiA_7lO/Obamanation/Code1/xX4ysZG.jpeg> Secretary of Education and mastermind behind Common Core." },
+    { searchString: "Molech", explanationText: "<img src=https://file.garden/aNtAfG887DiA_7lO/Obamanation/Code1/CT8v1VB.jpeg> Where the magic happens." },
+    { searchString: "Kevin Spacey", explanationText: "<img src=https://file.garden/aNtAfG887DiA_7lO/Obamanation/Code1/pnpaYFJ.jpeg> Open secret." },
+    { searchString: "guacamole bowl", explanationText: "<img src=https://file.garden/aNtAfG887DiA_7lO/Obamanation/Code1/Cu30O7e.jpeg> While supplies last." },
+    { searchString: "Robert Mueller", explanationText: "<img src=https://file.garden/aNtAfG887DiA_7lO/Obamanation/Code1/pbBm3QV.jpeg> Uniparty whore, agent of the state, ugly prick." },
+    { searchString: "elder Bush", explanationText: "<img src=https://file.garden/aNtAfG887DiA_7lO/Obamanation/Code1/W7DDGzs.jpeg> Looking for some ass to grab." },
+    { searchString: "Bush's daddy", explanationText: "<img src=https://file.garden/aNtAfG887DiA_7lO/Obamanation/Code1/W7DDGzs.jpeg> Looking for some ass to grab." },
+    { searchString: "Nancy Reagan", explanationText: "<img src=https://file.garden/aNtAfG887DiA_7lO/Obamanation/Code1/JWofLqw.jpeg> Known for the full-throated support she'd give to the men in her life." },
+    { searchString: "empty chair", explanationText: "<img src=https://file.garden/aNtAfG887DiA_7lO/Obamanation/Code1/lSIHFsU.jpeg> #PWNED" },
+    { searchString: "Malik Obama", explanationText: "<img src=https://file.garden/aNtAfG887DiA_7lO/Obamanation/Code1/9WbOJVi.jpeg> A brotherly bond that'll surely stand the test of time." },
+    { searchString: "Slenderman", explanationText: "<img src=https://file.garden/aNtAfG887DiA_7lO/Obamanation/Code1/wn6lU0p.jpeg> Leers over less children than your vice president." },
+    { searchString: "From the angle of the photo taken", explanationText: "<img src=https://file.garden/aNtAfG887DiA_7lO/Obamanation/Code1/cOKOnNd.jpeg> A big hug." }
 
 ];
 
-campaignTrail_temp.banner1 = createBanner("https://i.imgur.com/dXHtTbw.png", containerRef, true);
-campaignTrail_temp.banner2 = createBanner("https://i.imgur.com/CB4vjMS.png", containerRef, false);
+campaignTrail_temp.banner1 = createBanner("https://file.garden/aNtAfG887DiA_7lO/Obamanation/Code1/dXHtTbw.png", containerRef, true);
+campaignTrail_temp.banner2 = createBanner("https://file.garden/aNtAfG887DiA_7lO/Obamanation/Code1/CB4vjMS.png", containerRef, false);
 
 campaignTrail_temp.global_parameter_json[0].fields.question_count = 39
 
 RecReading = true
 
-document.getElementById("header").src = "https://i.imgur.com/jkMJoDh.png"
+document.getElementById("header").src = "https://file.garden/aNtAfG887DiA_7lO/Obamanation/Code1/HlUShxi.png"
 nct_stuff.themes[nct_stuff.selectedTheme].coloring_title = "#08043d"
 nct_stuff.themes[nct_stuff.selectedTheme].coloring_window = "#cccccc"
 document.getElementsByClassName("game_header")[0].style.backgroundColor = nct_stuff.themes[nct_stuff.selectedTheme].coloring_title
@@ -1873,7 +1914,7 @@ document.getElementsByClassName("game_header")[0].style.backgroundColor = nct_st
 corrr = `
 	<div style="font-size: 11px; font-family: monospace; color: white; background: #08043d">
 	<h2 style="font-style: normal;">
-	<img src="https://i.imgur.com/IhlpkjW.png" alt="THE OBAMANATION" style="margin-top: 5px; width: 950.4px; height: auto;">
+	<img src="https://file.garden/aNtAfG887DiA_7lO/Obamanation/Code1/IhlpkjW.png" alt="THE OBAMANATION" style="margin-top: 5px; width: 950.4px; height: auto;">
 	</h2>
 	</div>
 	`;
@@ -1966,18 +2007,18 @@ function playSong(audio, uiElements) {
     updateUI(currentSong, uiElements);
     audio.src = currentSong.audioLink;
     audio.play();
-    uiElements.playPauseButton.src = "https://i.imgur.com/qLb9UqQ.png";
+    uiElements.playPauseButton.src = "https://file.garden/aNtAfG887DiA_7lO/Obamanation/Code1/qLb9UqQ.png";
 }
 
 function setupMusicPlayer() {
     const songData = [
-        { title: "Queen of Hearts", artist: "Fucked Up", genre: "Punk", cover: "https://i.imgur.com/y1p4zEg.jpeg", audio: "https://file.garden/ZjghkE74SkXuNmZh/Queen%20of%20Hearts.mp3" },
-        { title: "Millennium of the Blind", artist: "Megadeth", genre: "Metal", cover: "https://i.imgur.com/Six3bC3.jpeg", audio: "https://file.garden/ZlwBsQzAvyz0wLEA/Millennium%20of%20The%20Blind.mp3" },
-        { title: "Hussein", artist: "Blue Scholars", genre: "Hip-Hop", cover: "https://i.imgur.com/jCzb20O.jpeg", audio: "https://file.garden/ZjghkE74SkXuNmZh/Hussein.mp3" },
-        { title: "Terrorist Threats", artist: "Ab-Soul (ft. Danny Brown, Jhene Aiko)", genre: "Rap", cover: "https://i.imgur.com/Uarvapg.jpeg", audio: "https://file.garden/ZkYlpFmp3wv99L22/Ab-Soul.mp3" },
-        { title: "Headlines", artist: "Drake", genre: "Rap", cover: "https://i.imgur.com/NNMiAp3.jpeg", audio: "https://file.garden/aGMtX3HRbS8W-RJ6/Drake%20%20%20Headlines%20Explicit%20HD.mp3" },
-        { title: "Words I Never Said", artist: "Lupe Fiasco (ft. Skylar Grey)", genre: "Rap", cover: "https://i.imgur.com/fGT2dTk.jpeg", audio: "https://file.garden/ZjwDHsS1nDDehStj/Words%20I%20Never%20Said.mp3" },
-        { title: "Illuminati", artist: "Korn (ft. Excision, Downlink)", genre: "Metal", cover: "https://i.imgur.com/I3RwsaS.jpeg", audio: "https://file.garden/ZlwBsQzAvyz0wLEA/Illuminati.mp3" }
+        { title: "Queen of Hearts", artist: "Fucked Up", genre: "Punk", cover: "https://file.garden/aNtAfG887DiA_7lO/Obamanation/Code1/y1p4zEg.jpeg", audio: "https://file.garden/ZjghkE74SkXuNmZh/Queen%20of%20Hearts.mp3" },
+        { title: "Millennium of the Blind", artist: "Megadeth", genre: "Metal", cover: "https://file.garden/aNtAfG887DiA_7lO/Obamanation/Code1/Six3bC3.jpeg", audio: "https://file.garden/ZlwBsQzAvyz0wLEA/Millennium%20of%20The%20Blind.mp3" },
+        { title: "Hussein", artist: "Blue Scholars", genre: "Hip-Hop", cover: "https://file.garden/aNtAfG887DiA_7lO/Obamanation/Code1/jCzb20O.jpeg", audio: "https://file.garden/ZjghkE74SkXuNmZh/Hussein.mp3" },
+        { title: "Terrorist Threats", artist: "Ab-Soul (ft. Danny Brown, Jhene Aiko)", genre: "Rap", cover: "https://file.garden/aNtAfG887DiA_7lO/Obamanation/Code1/Uarvapg.jpeg", audio: "https://file.garden/ZkYlpFmp3wv99L22/Ab-Soul.mp3" },
+        { title: "Headlines", artist: "Drake", genre: "Rap", cover: "https://file.garden/aNtAfG887DiA_7lO/Obamanation/Code1/NNMiAp3.jpeg", audio: "https://file.garden/aGMtX3HRbS8W-RJ6/Drake%20%20%20Headlines%20Explicit%20HD.mp3" },
+        { title: "Words I Never Said", artist: "Lupe Fiasco (ft. Skylar Grey)", genre: "Rap", cover: "https://file.garden/aNtAfG887DiA_7lO/Obamanation/Code1/fGT2dTk.jpeg", audio: "https://file.garden/ZjwDHsS1nDDehStj/Words%20I%20Never%20Said.mp3" },
+        { title: "Illuminati", artist: "Korn (ft. Excision, Downlink)", genre: "Metal", cover: "https://file.garden/aNtAfG887DiA_7lO/Obamanation/Code1/I3RwsaS.jpeg", audio: "https://file.garden/ZlwBsQzAvyz0wLEA/Illuminati.mp3" }
     ];
 
     playlist = new Playlist();
@@ -2019,12 +2060,12 @@ function setupMusicPlayer() {
 					</div>
 					<div id="bottom-controls">
 						<div id="controls">
-							<img id="prevButton" src="https://i.imgur.com/tbB2NMq.png" alt="Previous">
-							<img id="playPauseButton" src="https://i.imgur.com/gZME5QC.png" alt="Play/Pause">
-							<img id="nextButton" src="https://i.imgur.com/e69GXWV.png" alt="Next">
+							<img id="prevButton" src="https://file.garden/aNtAfG887DiA_7lO/Obamanation/Code1/tbB2NMq.png" alt="Previous">
+							<img id="playPauseButton" src="https://file.garden/aNtAfG887DiA_7lO/Obamanation/Code1/gZME5QC.png" alt="Play/Pause">
+							<img id="nextButton" src="https://file.garden/aNtAfG887DiA_7lO/Obamanation/Code1/e69GXWV.png" alt="Next">
 						</div>
 						<div id="volume-container">
-							<img src="https://i.imgur.com/fvct8dN.png" alt="Volume">
+							<img src="https://file.garden/aNtAfG887DiA_7lO/Obamanation/Code1/fvct8dN.png" alt="Volume">
 							<input type="range" id="volumeSlider" min="0" max="9" step="1" value="2">
 						</div>
 					</div>
@@ -2056,10 +2097,10 @@ function setupMusicPlayer() {
     uiElements.playPauseButton.addEventListener("click", () => {
         if (audio.paused) {
             audio.play();
-            uiElements.playPauseButton.src = "https://i.imgur.com/qLb9UqQ.png";
+            uiElements.playPauseButton.src = "https://file.garden/aNtAfG887DiA_7lO/Obamanation/Code1/qLb9UqQ.png";
         } else {
             audio.pause();
-            uiElements.playPauseButton.src = "https://i.imgur.com/gZME5QC.png";
+            uiElements.playPauseButton.src = "https://file.garden/aNtAfG887DiA_7lO/Obamanation/Code1/gZME5QC.png";
         }
     });
 
@@ -2104,15 +2145,14 @@ function setupMusicPlayer() {
     audio.src = initialSong.audioLink;
 
     audio.play().then(() => {
-        uiElements.playPauseButton.src = "https://i.imgur.com/qLb9UqQ.png";
+        uiElements.playPauseButton.src = "https://file.garden/aNtAfG887DiA_7lO/Obamanation/Code1/qLb9UqQ.png";
     }).catch(error => {
-        uiElements.playPauseButton.src = "https://i.imgur.com/gZME5QC.png";
+        uiElements.playPauseButton.src = "https://file.garden/aNtAfG887DiA_7lO/Obamanation/Code1/gZME5QC.png";
         console.log("Audio autoplay was prevented. User must interact with the page first.");
     });
 }
 
-const style = document.createElement("style");
-style.textContent = `
+const musicPlayer = `
 		#player {
 			font-family: 'Segoe UI', sans-serif;
 			display: flex;
@@ -2135,7 +2175,6 @@ style.textContent = `
 			border: 2px solid #fff;
 			box-shadow: 5px 5px 10px rgba(0,0,0,0.4);
 			flex-shrink: 0;
-            backdrop-filter: blur(5px);
 		}
 
 		#rightPanel {
@@ -2177,7 +2216,6 @@ style.textContent = `
 			margin-top: .5em;
 			padding: 8px;
 			border-radius: 4px;
-            backdrop-filter: blur(5px);
 		}
 		
 		#bottom-controls {
@@ -2253,6 +2291,7 @@ style.textContent = `
 			cursor: pointer;
 			border-radius: 50%;
 			border: 1px solid #777;
+			margin-top: 2px;
 		}
 
 		#volumeSlider::-moz-range-thumb {
@@ -2265,219 +2304,219 @@ style.textContent = `
 		}
 	`;
 
-document.head.appendChild(style);
+applyGlobalStyles(musicPlayer, 'music-player');
 
 const gameWindow_player = document.getElementById("game_window");
 setupMusicPlayer();
 
 campaignTrail_temp.achievements = {
     "I Rebuke You, Satan": {
-        "image": "https://i.imgur.com/DTCKvKx.png",
+        "image": "https://file.garden/aNtAfG887DiA_7lO/Obamanation/Code1/DTCKvKx.png",
         "description": "Catch a whiff of pure evil and live to tell the tale.",
         "cannotBeCheated": true
     },
     "It's Not Happening": {
-        "image": "https://i.imgur.com/YZCxNVu.png",
+        "image": "https://file.garden/aNtAfG887DiA_7lO/Obamanation/Code1/YZCxNVu.png",
         "description": "Defeat Ron Paul.",
         "cannotBeCheated": true
     },
     "Outlaw": {
-        "image": "https://i.imgur.com/5aydcc8.png",
+        "image": "https://file.garden/aNtAfG887DiA_7lO/Obamanation/Code1/5aydcc8.png",
         "description": "Defeat Joe Arpaio.",
         "cannotBeCheated": true
     },
     "This Time, It's Personal": {
-        "image": "https://i.imgur.com/yd9qImF.png",
+        "image": "https://file.garden/aNtAfG887DiA_7lO/Obamanation/Code1/yd9qImF.png",
         "description": "Make a sequel better than the original.",
         "cannotBeCheated": true
     },
     "Where's Your God Now?": {
-        "image": "https://i.imgur.com/sF3itRJ.png",
+        "image": "https://file.garden/aNtAfG887DiA_7lO/Obamanation/Code1/sF3itRJ.png",
         "description": "Defeat Michele Bachmann.",
         "cannotBeCheated": true
     },
     "You've Been Trumped": {
-        "image": "https://i.imgur.com/9kbvSlc.png",
+        "image": "https://file.garden/aNtAfG887DiA_7lO/Obamanation/Code1/9kbvSlc.png",
         "description": "Defeat Donald Trump.",
         "cannotBeCheated": true
     },
     "The King is Dead": {
-        "image": "https://i.imgur.com/7tw2CVu.png",
+        "image": "https://file.garden/aNtAfG887DiA_7lO/Obamanation/Code1/7tw2CVu.png",
         "description": "Defeat David Petraeus.",
         "cannotBeCheated": true
     },
     "I Hate the 90s": {
-        "image": "https://i.imgur.com/ER3QjLQ.png",
+        "image": "https://file.garden/aNtAfG887DiA_7lO/Obamanation/Code1/ER3QjLQ.png",
         "description": "Defeat Newt Gingrich.",
         "cannotBeCheated": true
     },
     "Telestial": {
-        "image": "https://i.imgur.com/ON3RJ8K.png",
+        "image": "https://file.garden/aNtAfG887DiA_7lO/Obamanation/Code1/ON3RJ8K.png",
         "description": "Defeat the Sesame Street Slasher.",
         "cannotBeCheated": true
     },
     "A Fortunate Son": {
-        "image": "https://i.imgur.com/qrLloDz.png",
+        "image": "https://file.garden/aNtAfG887DiA_7lO/Obamanation/Code1/qrLloDz.png",
         "description": "Clap Jeb Bush.",
         "cannotBeCheated": true
     },
     "Big Apple, Little Worm": {
-        "image": "https://i.imgur.com/RPVYlBZ.png",
+        "image": "https://file.garden/aNtAfG887DiA_7lO/Obamanation/Code1/RPVYlBZ.png",
         "description": "Defeat Michael Bloomberg.",
         "cannotBeCheated": true
     },
     "Off to the Hague": {
-        "image": "https://i.imgur.com/85S14GJ.png",
+        "image": "https://file.garden/aNtAfG887DiA_7lO/Obamanation/Code1/85S14GJ.png",
         "description": "Defeat Condoleezza Rice.",
         "cannotBeCheated": true
     },
     "Like a Rolling Stone": {
-        "image": "https://i.imgur.com/CXiqkD8.png",
+        "image": "https://file.garden/aNtAfG887DiA_7lO/Obamanation/Code1/CXiqkD8.png",
         "description": "Defeat Stanley McChrystal.",
         "cannotBeCheated": true
     },
     "Obama's Blunder": {
-        "image": "https://i.imgur.com/cUyEBhs.png",
+        "image": "https://file.garden/aNtAfG887DiA_7lO/Obamanation/Code1/cUyEBhs.png",
         "description": "Defeat an heir to the throne and his usurper.",
         "cannotBeCheated": true
     },
     "R.I.N.O.": {
-        "image": "https://i.imgur.com/fSDjoxC.png",
+        "image": "https://file.garden/aNtAfG887DiA_7lO/Obamanation/Code1/fSDjoxC.png",
         "description": "Defeat Jon Huntsman.",
         "cannotBeCheated": true
     },
     "The Bigger They Are...": {
-        "image": "https://i.imgur.com/LNvwi1K.png",
+        "image": "https://file.garden/aNtAfG887DiA_7lO/Obamanation/Code1/LNvwi1K.png",
         "description": "Beat Goliath.",
         "cannotBeCheated": true
     },
     "Six Shots": {
-        "image": "https://i.imgur.com/y8E9cPA.png",
+        "image": "https://file.garden/aNtAfG887DiA_7lO/Obamanation/Code1/y8E9cPA.png",
         "description": "Defeat Clint Eastwood.",
         "cannotBeCheated": true
     },
     "Back to Sleep": {
-        "image": "https://i.imgur.com/4DcOT9v.png",
+        "image": "https://file.garden/aNtAfG887DiA_7lO/Obamanation/Code1/4DcOT9v.png",
         "description": "Defeat Ben Carson.",
         "cannotBeCheated": true
     },
     "The Philosopher King": {
-        "image": "https://i.imgur.com/AMG2sY1.png",
+        "image": "https://file.garden/aNtAfG887DiA_7lO/Obamanation/Code1/AMG2sY1.png",
         "description": "In the face of opposition, successfully betray your ideals.",
         "cannotBeCheated": true
     },
     "I've Changed": {
-        "image": "https://i.imgur.com/kln6F31.png",
+        "image": "https://file.garden/aNtAfG887DiA_7lO/Obamanation/Code1/kln6F31.png",
         "description": "Pass the Affordable Care Act.",
         "cannotBeCheated": true
     },
     "National + Democratic + Marxist": {
-        "image": "https://i.imgur.com/427ZrDw.png",
+        "image": "https://file.garden/aNtAfG887DiA_7lO/Obamanation/Code1/427ZrDw.png",
         "description": "Pass the public option.",
         "cannotBeCheated": true
     },
     "Mastery of the Law": {
-        "image": "https://i.imgur.com/7vCwBjT.png",
+        "image": "https://file.garden/aNtAfG887DiA_7lO/Obamanation/Code1/7vCwBjT.png",
         "description": "Remake the ideological make-up of the Supreme Court.",
         "cannotBeCheated": true
     },
     "Zero Dark Thirty": {
-        "image": "https://i.imgur.com/3EXLcEw.png",
+        "image": "https://file.garden/aNtAfG887DiA_7lO/Obamanation/Code1/3EXLcEw.png",
         "description": "Have 99 problems, and make sure bin Laden ain't one.",
         "cannotBeCheated": true
     },
     "Leading from Behind": {
-        "image": "https://i.imgur.com/pNpryph.png",
+        "image": "https://file.garden/aNtAfG887DiA_7lO/Obamanation/Code1/pNpryph.png",
         "description": "Become the neoliberal assassin you were meant to be.",
         "cannotBeCheated": true
     },
     "Hope and Regime Change": {
-        "image": "https://i.imgur.com/HQXG7FR.png",
+        "image": "https://file.garden/aNtAfG887DiA_7lO/Obamanation/Code1/HQXG7FR.png",
         "description": "Help the Muslim Brotherhood ascend to power.",
         "cannotBeCheated": true
     },
     "Thanks, Obama": {
-        "image": "https://i.imgur.com/vndAL33.png",
+        "image": "https://file.garden/aNtAfG887DiA_7lO/Obamanation/Code1/vndAL33.png",
         "description": "Fail to deliver and win anyway.",
         "cannotBeCheated": true
     },
     "Enemies to Lovers": {
-        "image": "https://i.imgur.com/AMhn7t4.png",
+        "image": "https://file.garden/aNtAfG887DiA_7lO/Obamanation/Code1/AMhn7t4.png",
         "description": "Dump Biden.",
         "cannotBeCheated": true
     },
     "Homewrecker": {
-        "image": "https://i.imgur.com/1EBuYXs.png",
+        "image": "https://file.garden/aNtAfG887DiA_7lO/Obamanation/Code1/1EBuYXs.png",
         "description": "Ruin a war hero's life.",
         "cannotBeCheated": true
     },
     "From the River to the Sea": {
-        "image": "https://i.imgur.com/QHA5X5v.png",
+        "image": "https://file.garden/aNtAfG887DiA_7lO/Obamanation/Code1/QHA5X5v.png",
         "description": "Make your allegiance known.",
         "cannotBeCheated": true
     },
     "Weekend at Bernie's": {
-        "image": "https://i.imgur.com/UHNEC1s.png",
+        "image": "https://file.garden/aNtAfG887DiA_7lO/Obamanation/Code1/UHNEC1s.png",
         "description": "Talk down an angry old man from playing spoiler.",
         "cannotBeCheated": true
     },
     "Far from Kenya": {
-        "image": "https://i.imgur.com/uVv3z88.png",
+        "image": "https://file.garden/aNtAfG887DiA_7lO/Obamanation/Code1/uVv3z88.png",
         "description": "(Almost) lose it all.",
         "cannotBeCheated": true
     },
     "Highway to Hell": {
-        "image": "https://i.imgur.com/VA6d1S1.png",
+        "image": "https://file.garden/aNtAfG887DiA_7lO/Obamanation/Code1/VA6d1S1.png",
         "description": "Take over.",
         "cannotBeCheated": true
     },
     "Ermahgerd...Terxes": {
-        "image": "https://i.imgur.com/QabMDFI.png",
+        "image": "https://file.garden/aNtAfG887DiA_7lO/Obamanation/Code1/QabMDFI.png",
         "description": "Ruin a venture capitalist's life.",
         "cannotBeCheated": true
     },
     "Promises Change": {
-        "image": "https://i.imgur.com/cjucmW8.png",
+        "image": "https://file.garden/aNtAfG887DiA_7lO/Obamanation/Code1/cjucmW8.png",
         "description": "Win a landslide victory.",
         "cannotBeCheated": true
     },
     "Dances with Smurfs": {
-        "image": "https://i.imgur.com/N73nNHS.png",
+        "image": "https://file.garden/aNtAfG887DiA_7lO/Obamanation/Code1/N73nNHS.png",
         "description": "Make a true patriot president.",
         "cannotBeCheated": true
     },
     "Worst President of My Lifetime": {
-        "image": "https://i.imgur.com/F5MeTbQ.png",
+        "image": "https://file.garden/aNtAfG887DiA_7lO/Obamanation/Code1/F5MeTbQ.png",
         "description": "Lose to the worst of the worst.",
         "cannotBeCheated": true
     },
     "rƎVO⅃ution": {
-        "image": "https://i.imgur.com/MJMBn24.png",
+        "image": "https://file.garden/aNtAfG887DiA_7lO/Obamanation/Code1/MJMBn24.png",
         "description": "Lose to the fringe.",
         "cannotBeCheated": true
     },
     "Angel of Light": {
-        "image": "https://i.imgur.com/wnGR6Nb.png",
+        "image": "https://file.garden/aNtAfG887DiA_7lO/Obamanation/Code1/wnGR6Nb.png",
         "description": "Bring death and destruction and win.",
         "cannotBeCheated": true
     },
     "war criminal :(": {
-        "image": "https://i.imgur.com/NWfugXm.png",
+        "image": "https://file.garden/aNtAfG887DiA_7lO/Obamanation/Code1/NWfugXm.png",
         "description": "Fulfill your destiny.",
         "cannotBeCheated": true
     },
     "Barry Soetoro": {
-        "image": "https://i.imgur.com/bAYUC63.png",
+        "image": "https://file.garden/aNtAfG887DiA_7lO/Obamanation/Code1/bAYUC63.png",
         "description": "Finish what you started.",
         "cannotBeCheated": true
     },
     "Flint and Steel Bars": {
-        "image": "https://i.imgur.com/oGEWkO2.png",
+        "image": "https://file.garden/aNtAfG887DiA_7lO/Obamanation/Code1/oGEWkO2.png",
         "description": "Achieve the true ending.",
         "cannotBeCheated": true
     },
     "12.21.12.": {
-        "image": "https://i.imgur.com/wvidBI4.png",
+        "image": "https://file.garden/aNtAfG887DiA_7lO/Obamanation/Code1/wvidBI4.png",
         "description": "Survive on your own.",
         "cannotBeCheated": true
     }
@@ -2486,11 +2525,10 @@ campaignTrail_temp.achievements = {
 campaignTrail_temp.modBoxTheme = {
     "header_color": "#69295a",
     "header_text_color": "#FBFBFB",
-    "header_image_url": "https://i.imgur.com/npg4Eq3.png",
+    "header_image_url": "https://file.garden/aNtAfG887DiA_7lO/Obamanation/Code1/npg4Eq3.png",
     "description_text_color": "#000000",
     "description_background_color": "#FBFBFB",
     "main_color": "#010012",
     "secondary_color": "#69295a",
     "ui_text_color": "#FFFFFF"
 }
-
